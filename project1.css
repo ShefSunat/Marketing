@@ -1,0 +1,168 @@
+
+body
+{
+    font-family:sans-serif;
+}
+.table1
+{
+    width: 27%;
+    border:1px solid gray;
+    text-align: center;
+}
+.top1
+{
+    background-color: black;
+    color: whitesmoke;
+    padding: 30px;
+}
+.table2
+{
+    width: 25%;
+    border:1px solid gray;
+    text-align: center;
+}
+.top2
+{
+    background-color: gray;
+    color: whitesmoke;
+    padding: 30px;
+}
+.tables
+{
+    display: flex;
+    
+  justify-content: space-between;
+  width: 84%;
+  margin: auto; 
+}
+#hr1
+{
+    width: 9%;
+    height: 5px;
+    background-color: gray;
+    margin-bottom: 27px;
+}
+.body
+{
+  font-size: 1.2em;
+  justify-content: space-between;
+  width: 84%;
+  margin: auto; 
+}
+#offer
+{
+    text-align: center;
+    padding: 12px;
+}
+.head
+{
+    display: flex;
+}
+.design
+{
+    background-color: #f1f1f1;
+    padding: 6px;
+}
+.branding
+{
+    background-color: darkgrey;
+    padding: 6px;
+}
+.consult
+{
+    background-color: dimgray;
+    color: whitesmoke;
+    padding: 6px;
+}
+.promise
+{
+    background-color: black;
+    color: whitesmoke;
+    padding: 6px;
+}
+h1
+{
+    padding: 40px;
+}
+.bottom2
+{
+    background-color: chartreuse;
+   width: 50%;
+    padding-bottom: 19px;
+    justify-content: center;
+   margin: auto;
+    height: 40%;
+}
+.bottom
+{
+    background-color: #f1f1f1;
+    padding: 25px 25px 25px 25px;
+}
+.whoweare 
+{
+    display: flex;
+  justify-content: space-evenly;
+  width: 84%;
+  margin: auto; 
+  text-align: center;
+}
+.per1 img
+{
+width:84%;
+height: 300px;
+
+}
+.per1
+{
+    width: 100%;
+}
+.per1 p
+{
+    width: 89%;
+}
+#con
+{
+   padding: 17px;
+     background-color: gray;
+     width: 80%;
+}
+#text 
+{
+    width: 100%;
+    padding: 14px;
+}
+#send
+{
+    background-color: black;
+    color: white;
+    margin-bottom: 200px;
+    padding: 8px;
+    text-align: center;
+    width: 100%;
+}
+.footer {
+    display:flex;
+    flex-direction: column;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+.footer i
+{
+    font-size: 1.5em;
+    padding: 12px;
+}
+.icons
+{
+    display: flex;
+    justify-content: center;
+}
+#topto
+{
+    background-color: black;
+    color: white;
+    
+    padding: 8px;
+    text-align: center;
+    width: 10%;
+    margin: auto;
+}
